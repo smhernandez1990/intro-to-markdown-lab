@@ -1,5 +1,7 @@
 # Writing a Function in JavaScript
 
+![laptop displaying code next to a potted plant](./assets/james-harrison-vpOeXr5wmR4-unsplash.jpg)
+
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
 ## 1. Basic syntax
